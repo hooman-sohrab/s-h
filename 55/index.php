@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your 
         // here
         echo "sdf";
+        echo "sdf55987";
         ?>
     </body>
 </html>
