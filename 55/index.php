@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your 
+        echo "hi";
         // here
         echo "sdf";
         echo "sdf55987";
